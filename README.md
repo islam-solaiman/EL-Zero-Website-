@@ -4,4 +4,4 @@
 
 # Demo
 
-https://islam-solaiman.github.io/EL-Zero-Website/
+https://islam-solaiman.github.io/My-Gallery-Website/
