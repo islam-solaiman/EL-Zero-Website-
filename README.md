@@ -1,4 +1,4 @@
-# El Zero Website
+# My Gallery Website
 
 ## Responsive Website Made with HTML And CSS
 
